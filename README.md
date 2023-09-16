@@ -1,13 +1,13 @@
 # Welcome to my github profile 👋 🥳
 I'm Diwan, a prospective data scientist or analyst with a background in Mathematics and Science. During my studies, I really enjoyed studying science related to data and enjoyed learning new knowledge about data.
 
-## ☕ Complete Projects 
+### ☕ Complete Projects 
 
-## ⌛ On-going Projects 
+### ⌛ On-going Projects 
 
-## 💻 Competencies 
+### 💻 Competencies 
 
-## 🎮 Tools 
+### 🎮 Tools 
 <!--
 **diwan29/diwan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
